@@ -20,7 +20,7 @@ my %WriteMakefileArgs = (
   'LICENSE' => 'perl',
   'NAME' => 'text::anagram',
   'PREREQ_PM' => {},
-  'VERSION' => '0.0',
+  'VERSION' => '0.1',
   'test' => {
     'TESTS' => 't/*.t'
   }
